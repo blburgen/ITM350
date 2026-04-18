@@ -1,4 +1,4 @@
-﻿I am Brady.  One of my hobbies is painting.
+﻿# I am Brady.  One of my hobbies is painting.
 
 Below are some git commands:
 
