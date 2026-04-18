@@ -1,5 +1,8 @@
-﻿# ITM350
+﻿I am Brady.  One of my hobbies is painting.
 
+Below are some git commands:
+
+# ITM350
 
 git remote -v
 # Check if your repository has a remote, and show the url with the -v or verbose flag (meaning tell me everything including the url)
