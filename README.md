@@ -5,39 +5,36 @@ Below are some git commands:
 # ITM350
 
 git remote -v
-# Check if your repository has a remote, and show the url with the -v or verbose flag (meaning tell me everything including the url)
+--Check if your repository has a remote, and show the url with the -v or verbose flag (meaning tell me everything including the url)
 
 git remote add origin __________ 
-# Add a remote to the local repository called origin with the url specified 
+--Add a remote to the local repository called origin with the url specified 
 
 git push -u origin main 
-# Set the local branch to push to the remote branch with the same name, and push changes (includes new files) you have made 
+--Set the local branch to push to the remote branch with the same name, and push changes (includes new files) you have made 
 
 git pull 
-# Pulls code that was changed on the remote but is not yet on your local
+--Pulls code that was changed on the remote but is not yet on your local
 
 git status
-# What is the status of my files? 
+-What is the status of my files? 
 --This tells you files that have been changed, but not added (red), and 
 --Those that are added but not committed (green)
 
 git add . 
-# Adds the filename specified for the next commit 
+--Adds the filename specified for the next commit 
 
 git commit -m "__________________" 
-# Creates a local commit with the message specified 
+--Creates a local commit with the message specified 
 
 git push 
-# Pushes the changes you have made locally to the remote repository
-
+--Pushes the changes you have made locally to the remote repository
 
 git checkout main
-Changes your local repository to point to the the main branch
-
+--Changes your local repository to point to the the main branch
 
 git pull 
-Updates your local main with the changes made to the remote main
-
+--Updates your local main with the changes made to the remote main
 
 git checkout ________
 --switches your local to point to the _________ feature branch
